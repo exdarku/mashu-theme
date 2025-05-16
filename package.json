@@ -2,13 +2,13 @@
   "name": "mashu-theme",
   "displayName": "Mashu Theme",
   "description": "A soft, pastel, Mashu-inspired theme for VSCode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "exdarku", 
   "engines": {
     "vscode": "^1.70.0"
   },
   "categories": [
-    "Themes"
+    "Themes"  
   ],
   "contributes": {
     "themes": [
